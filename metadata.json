@@ -1,0 +1,6 @@
+{
+  "name": "do.",
+  "description": "A minimalist cosmic to-do list app designed to organize your tasks by priority and color.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
